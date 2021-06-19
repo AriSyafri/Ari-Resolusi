@@ -1,2 +1,2 @@
 # Ari-Resolusi
-repositotry rencana ari kedepannya
+repositotry rencana Ari kedepannya
