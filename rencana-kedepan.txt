@@ -8,4 +8,5 @@ rencana karier :
 - Mencari info magang dalam maupun luar
 - Menjadi Tutor
   * Tutor BOM
+  * Tutor MS Office
   * Tutor Komputer
